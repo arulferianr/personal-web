@@ -5,6 +5,7 @@ This is a nuxtjs, Tailwind CSS blogging template. Its supported Markdown for blo
 
 # Examples/Demo
 
+- [Arul Ferian R Blog](https://arulferianr.com)
 - [Demo blog - This repo](https://nuxt-tailwind-blog.netlify.app)
 
 ## Build Setup
