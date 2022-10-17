@@ -1,7 +1,7 @@
 # NuxtJs Tailwind Blog
 
 This is a nuxtjs, Tailwind CSS blogging template. Its supported Markdown for blog
-![Drag Racing](thumbnail.png)
+![Drag Racing](thumbnail-copy.png)
 
 # Examples/Demo
 
